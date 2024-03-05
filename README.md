@@ -7,5 +7,7 @@ Main OS: Linux Mint-------------------------------------------------------------
 
 Secondary OSes (VMs):
   -Windows XP Professional 32-Bitter Service Pack 2 (Primary Secondary OS)
-  -Windows 8.1 (Only need it to integrate the GitHub into Visual Studio 2019)
+  -Windows 10 IoT Enterprise LTSC 2021 (Visual Studio 2022 OS)
   -ReactOS
+  -Windows ME
+  
