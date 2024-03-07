@@ -17,3 +17,8 @@ Secondary OSes (VMs):
   
   -Windows ME
   
+Interesting Things About Me
+-----
+  - Creed is my favourite band
+  - I am a former garbage truck filmer
+  - I like 2000s stuff (my monitors, keyboard, mouse, and speakers are all made in the 2000s (and all Dell)).  
