@@ -25,4 +25,4 @@ Interesting Things About Me
 
 Contact
 ----
-If you want to get in touch, contact me through my email.
+If you want to get in touch, contact me through my email (xp4eternity@outlook.com).
