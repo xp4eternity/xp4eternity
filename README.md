@@ -11,7 +11,7 @@ Secondary OSes (VMs):
 
   -Windows XP Professional 32-Bitter Service Pack 2 (Primary Secondary OS)
   
-  -Windows 10 IoT Enterprise LTSC 2021 (Visual Studio 2022 OS)
+  -Windows 10 IoT Enterprise LTSC 2021 (Visual Studio 2022 & MS-DOS Emulator Headquarters OS)
   
   -ReactOS
   
