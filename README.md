@@ -21,4 +21,8 @@ Interesting Things About Me
 -----
   - Creed is my favourite band
   - I am a former garbage truck filmer
-  - I like 2000s stuff (my monitors, keyboard, mouse, and speakers are all made in the 2000s (and all Dell)).  
+  - I like 2000s stuff (my monitors, keyboard, mouse, and speakers are all made in the 2000s (and all Dell)).
+
+Contact
+----
+If you want to get in touch, contact me through my email.
