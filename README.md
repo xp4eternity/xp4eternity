@@ -21,7 +21,7 @@ Interesting Things About Me
 -----
   - Creed is my favourite band
   - I am a former garbage truck filmer
-  - I like 2000s stuff (my setup is all from the 2000s).
+  - I like 2000s stuff (in fact, my setup is all from the 2000s!).
 
 Contact
 ----
