@@ -35,7 +35,7 @@ Computers I Currently Have In Possession
   
   -HP All-In-One (As Primary From Sep 2021-Oct 2023)
     
-    OS History
+  OS History
       
         -Windows 10 Home (Sep 2021-Oct 2023)
         
@@ -43,7 +43,7 @@ Computers I Currently Have In Possession
         
   -ASUS Q405UA (As Primary From Nov 2018-Sep 2021)
     
-    OS History
+  OS History
     
         -Windows 10 Home (Nov 2018-Sep 2023)
         
@@ -59,7 +59,7 @@ Computers I Currently Have In Possession
 
    -Dell Inspiron (Partially Owned)
     
-    OS History
+  OS History
      
         -Windows Vista (Not Sure What Edition) (Assuming Only On Delivery Day)
         
