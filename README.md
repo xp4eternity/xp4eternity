@@ -14,6 +14,7 @@ Secondary OSes (VMs):
   - Windows 10 IoT Enterprise LTSC 2021 (Visual Studio 2022 OS)
   - ReactOS
   - Windows ME
+  - Windows 98
 
 # Computers I Currently Have In Possession
 
