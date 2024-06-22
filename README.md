@@ -1,6 +1,6 @@
 Hi!
 
-I'm Matthew a.k.a xp4eternity or a.k.a Geeman. I'm currently learning Python and C#.
+I'm Matthew. I'm currently majoring in Programming!
 
 # Interesting Things About Me
 
