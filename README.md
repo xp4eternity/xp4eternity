@@ -9,4 +9,4 @@ I'm Matthew. I'm currently majoring in Programming!
   - I love Linux and Windows XP!
 
 # Contact
-If you want to get in touch, contact me through my email (xp4eternity@outlook.com).
+If you want to get in touch, contact me through my email.
